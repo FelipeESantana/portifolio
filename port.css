@@ -1,0 +1,68 @@
+body{
+    background-color: gray;
+}
+header{
+    background-color: black;
+    
+}
+
+#minhaimg{
+    width: 45%;
+    border-radius: 300px;
+   
+}
+.topo{
+    position: relative;
+    margin: 0 auto;
+    width: 40%;
+    
+}
+.titulo{
+	position: absolute;
+	top: 60px;
+	right: 60px;
+}
+
+.titulo a{
+	color: white;
+	font-weight: bold;
+	font-size: 25px;
+	text-decoration: none;
+}
+.central{
+    background-color:black;
+    margin: 0 auto;
+    width: 70%;
+    padding: 20px 20px;
+    
+    
+}
+.texto{
+    font-size: 150%;
+    color: white;
+    margin-left: 80px;
+    margin-right: 80px;
+	
+}
+.lista{
+    font-size: 150%;
+    color: white;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+footer{
+    background-color: black; 
+}
+.final{
+    font-size: 160%;
+    color: white;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.fabio{
+    color: white;
+}
+.eu{
+    width: 40%;
+}
+
