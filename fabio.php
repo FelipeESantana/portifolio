@@ -7,6 +7,6 @@
     <title>Irmao</title>
 </head>
 <body>
-    <img src="eu-e-eu.jpeg" class="eu">
+    <img src="eu-e-eu.jpeg" clas="eu" alt="">
 </body>
 </html>

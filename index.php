@@ -14,7 +14,7 @@
             <a>Quem Eu Sou?</a>
             </nav>
         
-        <img src="eu.jpeg" id="minhaimg">
+        <img src="eu.jpeg" id="minhaimg" alt="">
         </div>
     </header>
     <main>
@@ -48,7 +48,7 @@
     <footer>
       <nav class="final">
         <a>Para entrar em contato:</a>
-        <li>telefone: (45)99142-6081</li>
+        <li>telefone:</li>
         <li>Email: felipesantanaau00@gmail.com</li>
         <li>github:<a href="https://github.com/FelipeESantana">FelipeESantana</a></li>
         <li>Instagram: felipe_eduard09</li>
