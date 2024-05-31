@@ -30,6 +30,7 @@
                     no ensino médio tecnico em desinvolvimento de sistemas</li>
                  
             </ul>
+            <ul>
             <nav class="lista">        
                 <a>Minhas capacitações:</a>
                 <li>HTML e CSS</li>
@@ -41,20 +42,22 @@
                 
             </nav>
                 
-            
+            </ul>
         </div>
         
     </main>
     <footer>
-      <nav class="final">
+      <nav class="final"> 
         <a>Para entrar em contato:</a>
-        <li>telefone:</li>
-        <li>Email: felipesantanaau00@gmail.com</li>
-        <li>github:<a href="https://github.com/FelipeESantana">FelipeESantana</a></li>
-        <li>Instagram: felipe_eduard09</li>
-        <p class="fabio">E para quem nao sabe sou irmão gemeo desse animal aqui ==><a href="fabio.php">Fábio:)</a></p>
+            <ul>
+            <li>telefone:</li>
+            <li>Email: felipesantanaau00@gmail.com</li>
+            <li>github:<a href="https://github.com/FelipeESantana">FelipeESantana</a></li>
+            <li>Instagram: felipe_eduard09</li>
+            <p class="fabio">E para quem nao sabe sou irmão gemeo desse animal aqui ==><a href="fabio.php">Fábio:)</a></p>
+            </ul>
       </nav>
-
+      
     </footer>
     
 </body>
