@@ -47,7 +47,7 @@
         
     </main>
     <footer>
-      <nav class="final"> 
+      <nav class="final">
         <a>Para entrar em contato:</a>
             <ul>
             <li>telefone:</li>
