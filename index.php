@@ -49,7 +49,8 @@
         
     </main>
     <footer>
-      <nav class="final">
+        <nav class="final">
+            
         <a>Para entrar em contato:</a>
             <ul>
             
@@ -58,7 +59,7 @@
             <p class="fabio">E para quem nao sabe sou irmão gemeo desse animal aqui ==><a href="fabio.php">Fábio:)</a></p>
             <li class="copy">&copy;Todos os direitos reservados a -Felipe Eduardo Santana</li>
             </ul>
-      </nav>
+        </nav>
       
     </footer>
     
