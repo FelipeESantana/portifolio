@@ -3,8 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="port.css">
     <link rel="stylesheet" href="reset.css">
+    <link rel="stylesheet" href="port.css">
+    
     <title>Meu Portifolio</title>
 </head>
 <body>
@@ -15,6 +16,7 @@
             </nav>
         
         <img src="eu.jpeg" id="minhaimg" alt="">
+
         </div>
     </header>
     <main>
@@ -31,7 +33,7 @@
                  
             </ul>
             <ul>
-            <nav class="lista">        
+            <nav class="lista">
                 <a>Minhas capacitações:</a>
                 <li>HTML e CSS</li>
                 <li>JavaScript</li>
@@ -50,11 +52,11 @@
       <nav class="final">
         <a>Para entrar em contato:</a>
             <ul>
-            <li>telefone:</li>
-            <li>Email: felipesantanaau00@gmail.com</li>
+            
+            <li>Contato:<a href="Contato.php">Pagina de contato</a></li>
             <li>github:<a href="https://github.com/FelipeESantana">FelipeESantana</a></li>
-            <li>Instagram: felipe_eduard09</li>
             <p class="fabio">E para quem nao sabe sou irmão gemeo desse animal aqui ==><a href="fabio.php">Fábio:)</a></p>
+            <li class="copy">&copy;Todos os direitos reservados a -Felipe Eduardo Santana</li>
             </ul>
       </nav>
       
