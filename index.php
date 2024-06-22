@@ -28,7 +28,7 @@
                 <li>Meu nome é Felipe Eduardo santana(tambem conhecido como crtl v)</li>
                 <li>Tenho 17 anos e estou no 3°ano do ensino medio</li>
                 <li>Gosto de ler, jogar, estudar e sou critico como hobby</li>
-                <li>Estudo programação no semear e no colégio 
+                <li>Estudo programação no semear e no colégio
                     no ensino médio tecnico em desinvolvimento de sistemas</li>
                  
             </ul>
