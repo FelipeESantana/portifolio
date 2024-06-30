@@ -1,0 +1,19 @@
+.objeto{
+    background-color: black;
+    text-align: center;
+}
+.objetoNome{
+    color: white;
+    text-align: center;
+}
+.objetoDesc{
+    color: white;
+    text-align: center;
+}
+.objetoLink{
+    color: white;
+    text-align: center;
+}
+#objetoImagem{
+    width: 200px;
+}
