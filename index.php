@@ -29,7 +29,7 @@
                 // Adiciona o objeto ao container de objetos
                 const container = document.getElementById('objetosContainer');
                 //forech para fazer o loop que passara pelo json
-                objetoProjetos.forEach(projeto =>{ 
+                objetoProjetos.forEach(projeto =>{
                 // Clona o template
                 const objetoClone = document.importNode(template.content, true);
 
@@ -49,17 +49,7 @@
     </script>
 </head>
 <body>
-    <header>
-        <div class="topo">
-            <nav class="titulo">
-            <a>Quem Eu Sou?</a>
-            </nav>
-        
-        <img src="eu.jpeg" id="minhaimg" alt="">
-
-        </div>
-
-    </header>
+    <?php include_once("header.phtml") ?>
     <main>
 
         <div class="central">
@@ -90,7 +80,7 @@
         <!-- Definição do template -->
     <template id="objetoTemplate">
         <div class="objeto">
-            <img id="objetoImagem">
+            <img id="objetoImagem" alt="">
             <h2 class="objetoNome"></h2>
             <p class="objetoDesc"></p>
             <a class="objetoLink" href=""></a>
@@ -103,20 +93,7 @@
     </div>
         
     </main>
-    <footer>
-        <nav class="final">
-            
-        <a>Para entrar em contato:</a>
-            <ul>
-            
-            <li>Contato:<a href="Contato.php">Pagina de contato</a></li>
-            <li>github:<a href="https://github.com/FelipeESantana">FelipeESantana</a></li>
-            <p class="fabio">E para quem nao sabe sou irmão gemeo desse animal aqui ==><a href="fabio.php">Fábio:)</a></p>
-            <li class="copy">&copy;Todos os direitos reservados a -Felipe Eduardo Santana</li>
-            </ul>
-        </nav>
-      
-    </footer>
-    
+
+    <?php include_once("footer.phtml") ?>
 </body>
 </html>

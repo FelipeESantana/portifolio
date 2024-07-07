@@ -27,16 +27,8 @@
     </script>
 </head>
 <body>
-<header>
-        <div class="topo">
-            <nav class="titulo">
-            <a>Quem Eu Sou?</a>
-            </nav>
-        
-        <img src="eu.jpeg" id="minhaimg" alt="">
-        </div>
-    </header>
-    <main>
+    <?php include_once("header.phtml") ?>
+<main>
       
     <form action="#" method="POST"  onsubmit="return validacao()">
         <h2> Contato </h2>
@@ -52,6 +44,7 @@
         <input type="submit" value="Enviar formulário" class="enviar">
 
     </form>
+
 </main>
 </body>
 </html>
