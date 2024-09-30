@@ -77,7 +77,7 @@
                 
             </ul>
         </div>
-        <!-- Definição do template -->
+
     <template id="objetoTemplate">
         <div class="objeto">
             <img id="objetoImagem" alt="">
@@ -87,7 +87,6 @@
         </div>
     </template>
 
-    <!-- Container para inserir os objetos -->
     <div id="objetosContainer">
 
     </div>
